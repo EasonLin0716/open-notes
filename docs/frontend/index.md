@@ -1,4 +1,4 @@
-# Markdown & MDX
+# 前端
 
 Rspress supports not only Markdown but also [MDX](https://mdxjs.com/), a powerful way to develop content.
 
