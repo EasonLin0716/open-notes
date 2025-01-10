@@ -1,16 +1,17 @@
 [
   {
     "text": "前端",
-    "link": "/frontend/",
+    "link": "/frontend/vue/",
     "activeMatch": "/frontend/"
   },
   {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "軟體開發",
+    "link": "/dev/php/",
+    "activeMatch": "/dev/"
   },
   {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "隨筆",
+    "link": "/random/",
+    "activeMatch": "/random/"
   }
 ]

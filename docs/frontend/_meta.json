@@ -1,1 +1,17 @@
-["index"]
+[
+  {
+    "type": "dir",
+    "name": "vue",
+    "label": "Vue"
+  },
+  {
+    "type": "dir",
+    "name": "react",
+    "label": "React"
+  },
+  {
+    "type": "dir",
+    "name": "svelte",
+    "label": "Svelte"
+  }
+]
