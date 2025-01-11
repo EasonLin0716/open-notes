@@ -12,5 +12,6 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.17"
-  }
+  },
+  "packageManager": "pnpm@9.7.0+sha1.8f12c476122faede7aed9a2126ef551c0dc65d7e"
 }
