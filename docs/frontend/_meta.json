@@ -13,5 +13,10 @@
     "type": "dir",
     "name": "svelte",
     "label": "Svelte"
+  },
+  {
+    "type": "dir",
+    "name": "master-co-styles",
+    "label": "master-co/styles"
   }
 ]
