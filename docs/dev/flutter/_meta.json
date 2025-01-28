@@ -1,1 +1,11 @@
-["index", "state-management"]
+[
+  "index",
+  {
+    "type": "dir",
+    "name": "widgets",
+    "label": "Widgets",
+    "collapsible": true,
+    "collapsed": true
+  },
+  "state-management"
+]
