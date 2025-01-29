@@ -16,7 +16,7 @@
   },
   {
     "type": "dir",
-    "name": "master-co-styles",
-    "label": "master-co/styles"
+    "name": "css",
+    "label": "CSS"
   }
 ]
