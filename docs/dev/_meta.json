@@ -6,6 +6,11 @@
   },
   {
     "type": "dir",
+    "name": "dart",
+    "label": "Dart"
+  },
+  {
+    "type": "dir",
     "name": "flutter",
     "label": "Flutter"
   }
