@@ -1,4 +1,4 @@
-# 快速入門 Widgets
+# Widgets
 
 Widgets 是 Flutter app 使用者介面的 building blocks，每個 widget 都是使用者介面中的不可變宣告。
 
@@ -51,3 +51,11 @@ class _CounterWidgetState extends State<CounterWidget> {
 ```
 
 當值改變的時候，widget 必須被重建來更新它使用者介面的一部分，此 widget 便是 `StatefulWidget` 的子類別。**`StatefulWidget` 的子類別沒有 `build` 方法，它們的使用者介面是透過 `State` 物件建構的。** 
+
+## 建立 Stateful Widget
+
+- 有狀態的 Widget 由兩個類別實作： `StatefulWidget` 的子類別和 `State` 的子類別。
+- 狀態類別包含 Ｗidget 的可變狀態和 Ｗidget 的 `build()` 方法。
+- 當 Widget 的狀態改變時，狀態物件會呼叫 `setState()`，告訴框架重新繪製 Widget。
+
+***2025.03.28 sync to open-notes***

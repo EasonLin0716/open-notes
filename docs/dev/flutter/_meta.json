@@ -7,5 +7,12 @@
     "collapsible": true,
     "collapsed": true
   },
-  "state-management"
+  "state-management",
+  {
+    "type": "dir",
+    "name": "bloc",
+    "label": "bloc",
+    "collapsible": true,
+    "collapsed": true
+  }
 ]
